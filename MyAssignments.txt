@@ -1,0 +1,11 @@
+*Make notes on these topics at least 2,3 pages for your own reference and understanding
+and create a word document as "JavascriptD1-Introduction Notes"
+
+1. Introduction to web Browser
+2. DOM tree CSSOM tree,
+3. Browser internals - HTML parser,CSS parser,  
+4. JavaScript V8 engine, 
+5. internals IP – MAC address – Ports & Evolution of HTTP,
+6. HTTP Methods (GET,POST,PATCH,DELETE)
+7. How the Server looks at the URL
+8. Request & Response cycle
